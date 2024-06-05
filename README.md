@@ -21,7 +21,7 @@ Before using this patched version, ensure that you have the original version of 
    - Visit the [official Background Music GitHub page](https://github.com/kyleneideck/BackgroundMusic) and follow the instructions to download and install the original version of the utility. This step is crucial as it installs the necessary audio driver.
 
 2. **Replace with Patched Version**:
-   - Download the patched version of Background Music from the source provided by Tesla.
+   - Download the patched version of Background Music from the releases page.
    - Locate the installed original version of Background Music on your macOS system. This is typically found in the Applications folder.
    - Replace the original application with the patched version by copying and pasting it into the same directory, allowing it to overwrite the original.
 
