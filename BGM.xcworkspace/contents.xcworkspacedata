@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:BGMDriver/BGMDriver.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BGMApp/BGMApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:MANUAL-INSTALL.md">
+   </FileRef>
+   <FileRef
+      location = "group:MANUAL-UNINSTALL.md">
+   </FileRef>
+   <FileRef
+      location = "group:TODO.md">
+   </FileRef>
+   <FileRef
+      location = "group:DEVELOPING.md">
+   </FileRef>
+   <FileRef
+      location = "group:CONTRIBUTING.md">
+   </FileRef>
+   <FileRef
+      location = "group:LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:LICENSE-Apple-Sample-Code">
+   </FileRef>
+   <FileRef
+      location = "group:build_and_install.sh">
+   </FileRef>
+   <FileRef
+      location = "group:uninstall.sh">
+   </FileRef>
+   <FileRef
+      location = "group:package.sh">
+   </FileRef>
+   <FileRef
+      location = "group:pkg">
+   </FileRef>
+   <FileRef
+      location = "group:Images">
+   </FileRef>
+</Workspace>
